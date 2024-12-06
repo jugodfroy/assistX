@@ -36,7 +36,7 @@ If you need computing resources, we can provide a Node with GPU access for a 3-h
 
 ## Timeline and Contact
 - Duration: One week
-- To schedule a results presentation, contact:
+- To schedule a results presentation, contact:sdsds
   - nlamarque@iliad-free.fr
   - jgodfroy@iliad-free.fr
   - yzerbib@iliad-free.fr
