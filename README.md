@@ -5,7 +5,7 @@ This test is designed for applicants to ML/LLM Engineer positions within Free. I
 
 ## Assignment Instructions
 1. Follow the Requirements section to setup this projet
-2. Pick at least 2 user stories (tickets) from the kanban (ticket board) and implement them. You can also add or implement other user stories you think relevant.
+2. Pick at least 2 user stories (tickets) from the kanban (ticket board) and implement them. You can also add or implement other user stories you think relevant (approx 3 hours).
 
 ## Deliverables
 1. Access to your private repository
