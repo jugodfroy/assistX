@@ -1,14 +1,18 @@
 # ML/LLM Engineer Technical Test - Free
 
 ## Overview
-This test is designed for applicants to ML/LLM Engineer positions within Free.
+This test is designed for applicants to ML/LLM Engineer positions within Free. In this repository, you'll find a python chatbot-like webapp soucring answer from Free knowledge base. Your goal is to adopt this project, improve the actual basic implementation, to showcase your ability to understand a small project and build on top of it.
+
+## Assignment Instructions
+1. Follow the Requirements section to setup this projet
+2. Pick at least 2 user stories (tickets) from the kanban (ticket board) and implement them. You can also add or implement other user stories you think relevant.
+
+## Deliverables
+1. Access to your private repository
+2. Brief PDF abstract explaining what you've done, and why.
 
 ## Context
 Free has local technical support teams operating in various regions across the country. They primarily use a chat interface to address client issues.
-
-## Objectives
-In this repository, you'll find a python chatbot-like webapp soucring answer from Free knowledge base. Your goal is to adopt this project, improve the actual basic implementation, to showcase your ability to understand a small project and build on top of it.
-
 
 ## Requirements
 ### Project Setup
@@ -40,9 +44,6 @@ If you need computing resources, we can provide a Node with GPU access for a 3-h
 - yzerbib@iliad-free.fr
 - nlamarque@iliad-free.fr
 
-## Deliverables
-1. Access to your private repository
-2. Brief PDF abstract explaining what you've done, and why.
 
 ## Timeline and Contact
 - Deadline: One week
